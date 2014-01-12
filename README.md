@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -64,3 +65,9 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+Learning-chef
+=============
+
+Learning chef following Nathan Harvey's blog http://nathenharvey.com/blog/2012/12/06/learning-chef-part-1/
+>>>>>>> 0a30a6f579b148de800577417ccd61d410fe4d96
